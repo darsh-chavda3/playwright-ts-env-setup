@@ -1,7 +1,7 @@
 {
   "name": "playwright-ts-env-setup",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright Environment Setup and Configuration",
   "main": "index.js",
   "scripts": {
     "env:dev": "cross-env test_env=dev npx playwright test",
