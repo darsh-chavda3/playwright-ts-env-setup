@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "userName": "dev_user",
+    "password": "dev_password"
+  },
+  "stg": {
+    "userName": "stg_user",
+    "password": "stg_password"
+  }
+}
